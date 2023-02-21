@@ -1,0 +1,7 @@
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 03\Challenge1\bin\Debug\Challenge1.exe.config
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 03\Challenge1\bin\Debug\Challenge1.exe
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 03\Challenge1\bin\Debug\Challenge1.pdb
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 03\Challenge1\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 03\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 03\Challenge1\obj\Debug\Challenge1.exe
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 03\Challenge1\obj\Debug\Challenge1.pdb
